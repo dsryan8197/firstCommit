@@ -12,7 +12,7 @@ Steps to contribute:
 
 5. Make a contribution to this ReadMe by answering the question below.
 
-Question: Whats your favorite milkshake flavor? ______
+Question: Whats your favorite milkshake flavor? Cookies and cream
 
 6. Learn how push your code to your personal Repo. You should push your code whenever you are finished with a feature or when you hit a milestone that you want to make sure you save. (hint: git push command)
 
